@@ -1,0 +1,16 @@
+{
+  "name": "webpack-dev-server-issue",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "webpack-cli",
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^13.9.1",
+    "webpack": "^5.0.0-beta.14",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.2"
+  }
+}
